@@ -20,4 +20,4 @@
 7. Запустить `get_images.py`
 8. После загрузки всех фото можно запустить `create_pdf.py`
 
-   Взял идею у [fennr (Viktor Merkurev)](https://github.com/fennr)
+   Взял идею у [fennr](https://github.com/fennr) [(Viktor Merkurev)](https://github.com/fennr)
