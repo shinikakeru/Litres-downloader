@@ -10,11 +10,11 @@ pip install requests selenium webdriver-manager img2pdf
 3. Нажать control + shift + I
 4. найти ID книги (в elements нажать на стрелку и нажать на любую страничку книги)
 <p>
-  <img src="photos/photo1.jpg">
+  <img src="photos/photo1.png">
 </p>
 5. Выделить ID и скопировать (только цифры)
 <p>
-  <img src="photos/photo2.jpg">
+  <img src="photos/photo2.png">
 </p>
 6. Открыть config.py в блокноте и поменять BOOK_ID на тот, что скопировали ранее, поменять PAGES на количество страниц в книге. Ввести логин (почту) и пароль. Сохранить изменения.
 7. Запустить get_images.py
